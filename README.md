@@ -2,7 +2,7 @@
 
 ### Hi there 👋, I'm Edwar
 
-I have experience implementing client-server, web and mobile applications in Colombia, Mexico and USA, working as software developer, technical leader and Scrum Master.
+I have experience implementing client-server, web and mobile applications in Colombia, Mexico and USA, working as software developer, technical leader and scrum master.
 
 - 🔭 I’m currently working on iOS development
 
