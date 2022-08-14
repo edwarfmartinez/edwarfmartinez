@@ -1,4 +1,4 @@
-![EdwarBanner](https://user-images.githubusercontent.com/99278919/166005749-37661515-9def-4a39-8ee8-e2ac3827ce66.png)
+![LinkedinBanner](https://user-images.githubusercontent.com/99278919/184518452-28b0e92a-2b47-44bb-aa1f-29c9cb656386.png)
 
 ### Hi there 👋, I'm Edwar
 
