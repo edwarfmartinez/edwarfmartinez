@@ -13,8 +13,7 @@ I have experience implementing client-server, web and mobile applications in Col
 - 👯 I’m looking to collaborate on iOS development teams
 
 
-- 📫 How to reach me: 
-    * Website: https://www.edwarmartinez.com
+- 📫 How to reach me: https://www.edwarmartinez.com
 
 <hr>
 
