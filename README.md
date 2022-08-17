@@ -14,7 +14,7 @@ I have experience implementing client-server, web and mobile applications in Col
 
 
 - 📫 How to reach me: 
-    * Linkedin: https://www.linkedin.com/in/edwarfmartinez/
+    * Website: https://www.edwarmartinez.com
     * E-mail:![Screen Shot 2022-04-29 at 1 51 31 PM](https://user-images.githubusercontent.com/99278919/166008071-ab4d4f92-74b9-44dc-8853-5eb09e14ecda.png)
 
 <hr>
