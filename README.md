@@ -1,4 +1,4 @@
-![Uploading LinkedIn Banner.png…]()
+![LinkedIn Banner](https://user-images.githubusercontent.com/99278919/229165335-d5b6650a-6aea-44e7-b4ca-0f72858fc33b.png)
 
 ### Hi there 👋, I'm Edwar
 
