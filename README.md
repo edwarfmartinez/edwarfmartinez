@@ -1,5 +1,4 @@
-![BannerPersonal](https://user-images.githubusercontent.com/99278919/197060956-a9f75514-197a-4f73-93e9-27d95f8ad1e1.jpeg)
-
+![Brown Wood Minimalist Profile LinkedIn Banner (1)](https://user-images.githubusercontent.com/99278919/229022704-a5c6ce0d-6d54-421f-b409-67486f7895ba.png)
 
 ### Hi there 👋, I'm Edwar
 
