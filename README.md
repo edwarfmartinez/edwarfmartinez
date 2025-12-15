@@ -2,18 +2,15 @@
 
 ### Hi there 👋, I'm Edwar
 
-I have experience implementing client-server, web and mobile applications in Colombia, Mexico and USA, working as software developer, technical leader and scrum master.
+I have experience designing and delivering client–server, web, and mobile applications across Colombia, Mexico, and the United States. I’ve worked as a software developer, technical lead, and Scrum Master, collaborating with cross-functional teams to ship reliable, scalable solutions.
 
-- 🔭 I’m currently working on iOS development
+🔭 Currently working on: iOS development
 
+🌱 Currently learning: Core ML 2
 
-- 🌱 I’m currently learning CoreML2 and Firebase services
+👯 Open to collaborate on: iOS development teams
 
-
-- 👯 I’m looking to collaborate on iOS development teams
-
-
-- 📫 How to reach me: https://www.edwarmartinez.com
+📫 Contact: https://www.edwarmartinez.com
 
 <hr>
 
